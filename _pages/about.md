@@ -5,8 +5,8 @@ permalink: /
 subtitle: 
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: website_head.jpg
   image_circular: false # crops the image to make it circular
   address: >
     
