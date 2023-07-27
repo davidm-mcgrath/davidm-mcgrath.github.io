@@ -21,4 +21,7 @@ My research focuses on the American political media ecosystem, the economic fact
 
 I hold a B.A. in political science and biochemistry from Case Western Reserve University (summa cum laude; Phi Beta Kappa). Outside of work, you can find me running or watching Tottenham.
 
+[Find my CV here](	
+https://www.dropbox.com/scl/fi/joimm8votofei2dxdxpzc/McGrath_CV_2023.pdf?rlkey=skmidecxukrd0t87w2acztvxy&dl=0)
+
 Contact: dm4947@nyu.edu
