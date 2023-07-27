@@ -4,9 +4,16 @@ permalink: /teaching/
 title: teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**DS-UA 201: Causal Inference (Fall 2022, Fall 2023)**
 
-Organize your courses by years, topics, or universities, however you like!
+**Course Description**: Provides students with the tools for understanding the relationship between cause and effect. Begins with design and implementation of the data-gathering process (the experiment) and then identifies preconditions required for A to cause B and discusses threats to the validity of less-than-perfect experiments. Other topics: quasi-experiments, regression discontinuities, and contemporary advanced approaches
+
+[Course Materials](https://www.dropbox.com/sh/ks68rw02tr0gbp5/AAAJCc3zb0EfDirMapNa-Sr4a?dl=0)
+
+
+**POL-UA 300: Power and Politics in America (Spring 2022, Spring 2023)**
+
+**Course Description**: Surveys institutions and behavior and introduces a variety of analytical concepts and approaches. Topics: public goods and collective action; preference aggregation and the median voter theorem; delegation, representation, and accountability; agenda control; interbranch bargaining; and the mechanisms of private influence on public policy. 
