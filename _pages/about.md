@@ -19,7 +19,7 @@ Welcome! I am a current Ph.D. student in the Wilf Family Department of Politics 
 
 My research focuses on the American political media ecosystem, the economic factors shaping its evolution in the 21st century, and the implications of those changes for political polarization and communication. I examine these questions using a combination of quantitative social science and data science techniques such as natural language processing and machine learning.
 
-I hold a B.A. in political science and biochemistry from Case Western Reserve University (summa cum laude; Phi Beta Kappa). Outside of work, you can find me running or watching Tottenham.
+I hold a B.A. in political science and biochemistry from Case Western Reserve University (_summa cum laude; Phi Beta Kappa_). Outside of work, you can find me running or watching Tottenham.
 
 [Find my CV here](	
 https://www.dropbox.com/scl/fi/joimm8votofei2dxdxpzc/McGrath_CV_2023.pdf?rlkey=skmidecxukrd0t87w2acztvxy&dl=0)
