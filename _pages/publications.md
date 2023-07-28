@@ -9,7 +9,7 @@ nav_order: 1
 
 ## Working Papers
 
-**Selective Incivility: Politicians’ Use of Uncivil Language on Twitter **
+**Selective Incivility: Politicians’ Use of Uncivil Language on Twitter**
 
 [Paper](https://www.dropbox.com/scl/fi/3egfaiy9tnimggrij0ti6/McGrath_QualifyingPaper.pdf?dl=0&rlkey=rq2tehn9ukyy7uy7aliw6l1td)
 
