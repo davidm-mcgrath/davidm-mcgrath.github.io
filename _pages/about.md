@@ -25,4 +25,6 @@ Outside of work, you can find me running or watching Tottenham.
 
 [Find my resume here](https://www.dropbox.com/scl/fi/xr54y6uxmai259xsmpi60/McGrath_Resume_2025.pdf?rlkey=ontsd7yv2wn5mc80kxiolibg0&st=tv14oyzk&dl=0)
 
+[github](https://github.com/davidm-mcgrath)
+
 Contact: dmcgrath160@gmail.com
